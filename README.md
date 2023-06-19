@@ -1,1 +1,2 @@
 # odin-recipes
+This project is part of The Odin Project and is intended to be a very basic HTML website showcasing various recipes of my choosing in order to demonstrate the use of basic HTML tags and elements.
